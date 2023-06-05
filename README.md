@@ -33,7 +33,7 @@ with open(fname,'r') as f:
     words = line.split()
     num_words+=len(words)
 print('Number of words: ',num_words)
-
+```
 ### OUTPUT:
 ![image](https://github.com/NARESHVB/Word-count/assets/119393642/c0474ded-cd5c-4d47-b172-5529e60722a0)
 
