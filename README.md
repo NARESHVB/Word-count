@@ -36,6 +36,8 @@ print('Number of words: ',num_words)
 ```
 ### OUTPUT:
 ![image](https://github.com/NARESHVB/Word-count/assets/119393642/c0474ded-cd5c-4d47-b172-5529e60722a0)
+![image](https://github.com/NARESHVB/Word-count/assets/119393642/27e35464-f0a9-4d71-b7bb-09ad8670edc4)
+
 
 
 
